@@ -58,9 +58,17 @@ If you'd like to contribute:
 
 ---
 
-## 📬 Contact
-Feel free to reach out for suggestions or questions:
-- **GitHub**: [YourUsername](https://github.com/YourUsername)
-- **Email**: tiwaryshubham1703@gmail.com
+## 📬 **Connect with Me**  
+Let’s collaborate and grow together in the world of Java development!  
+
+```plaintext
+╔════════════════════════════════════════╗
+║                                        ║
+║   📧 Email: your.email@example.com     ║
+║   🌐 GitHub: github.com/YourUsername   ║
+║   💼 LinkedIn: linkedin.com/in/yourid  ║
+║                                        ║
+╚════════════════════════════════════════╝
+
 
 Happy coding! 😊
