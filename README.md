@@ -62,7 +62,7 @@ If you'd like to contribute:
 
 ## 📬 Contact
 Feel free to reach out for suggestions or questions:
-- **GitHub**: [YourUsername]https://github.com/tiwaryshubham1703
+- **GitHub**: https://github.com/tiwaryshubham1703
 - **Email**: your.tiwaryshubham1703@gmail.com
 
 Happy coding! 😊
