@@ -1,4 +1,5 @@
 # JavaUnplugged
+
 # Core Java Journey 🚀
 
 Welcome to **Core Java Journey**, a repository dedicated to mastering the fundamentals of Java programming. This repository serves as a learning hub, project showcase, and preparation resource for job opportunities in Java development.
@@ -18,6 +19,7 @@ This repository contains:
 Here's the structure of the repository:
 
 CoreJavaJourney/ ├── src/ # Java source code files ├── exercises/ # Practice problems and solutions ├── projects/ # Mini Java projects ├── notes/ # Important Java concepts and notes └── README.md # Repository overview
+
 
 ---
 
@@ -58,17 +60,10 @@ If you'd like to contribute:
 
 ---
 
-## 📬 **Connect with Me**  
-Let’s collaborate and grow together in the world of Java development!  
-
-```plaintext
-╔════════════════════════════════════════╗
-║                                        ║
-║   📧 Email: your.email@example.com     ║
-║   🌐 GitHub: https://github.com/tiwaryshubham1703  ║
-║   💼 LinkedIn: linkedin.com/in/yourid  ║
-║                                        ║
-╚════════════════════════════════════════╝
-
+## 📬 Contact
+Feel free to reach out for suggestions or questions:
+- **GitHub**: [YourUsername]https://github.com/tiwaryshubham1703
+- **Email**: your.tiwaryshubham1703@gmail.com
 
 Happy coding! 😊
+
