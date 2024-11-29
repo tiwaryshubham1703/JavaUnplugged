@@ -65,7 +65,7 @@ Let’s collaborate and grow together in the world of Java development!
 ╔════════════════════════════════════════╗
 ║                                        ║
 ║   📧 Email: your.email@example.com     ║
-║   🌐 GitHub: github.com/YourUsername   ║
+║   🌐 GitHub: https://github.com/tiwaryshubham1703  ║
 ║   💼 LinkedIn: linkedin.com/in/yourid  ║
 ║                                        ║
 ╚════════════════════════════════════════╝
